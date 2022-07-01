@@ -1,7 +1,7 @@
 # Feedback-Prize-Effectiveness-Kaggle-Competition
 https://www.kaggle.com/competitions/feedback-prize-effectiveness
 This notebook includes my approach on Feedback Prize Effectiveness competition on Kaggle. 
-* I used Universal-Sentence-Encoder as pretrained model in my notebook. 
+It is a text classification task therefore, I used Universal-Sentence-Encoder as pretrained model in my notebook. 
 * Three(3) inputs used for this analysis
   * **Token:** Created by tokenization of `discourse_effectiveness` column
   * **Type:** Encode `discourse_type` column
